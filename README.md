@@ -1,11 +1,16 @@
-# Simple Interest Calculator
+# e-plantShopping
 
-## Project Name
-**Simple Interest Calculator**
+**Final Project** - Paradise Nursery Shopping Cart Application
 
-## Description
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+A fully functional React + Redux shopping cart application for Paradise Nursery - an online plant shop.
 
-This repository contains a Bash script (`simple-interest.sh`) that interactively prompts the user for financial inputs and computes the simple interest.
+## Features
 
-## Formula
+- Responsive landing page with background image
+- Product listing with multiple categories (Air Purifying Plants, Aromatic Fragrant Plants, Insect Repellent Plants)
+- Add to Cart functionality using Redux
+- Dynamic shopping cart with quantity management
+- Total calculation and checkout simulation
+- Continue Shopping and Delete item features
+
+## Project Structure
